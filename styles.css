@@ -7,7 +7,7 @@ strong {
 }
 #p-intro {
   line-height: 30px;
-  margin-right: 100px;
+  margin-right: 3%;
   color: black;
   font-weight: 380;
   font-size: 13pt;
@@ -32,8 +32,7 @@ p {
 .use {
   text-align: center;
   margin-bottom: 8px;
-  padding-left: 20px;
-  padding-right: 4%;
+
   font-size: 30px;
   word-spacing: "2px";
   letter-spacing: "1px";
